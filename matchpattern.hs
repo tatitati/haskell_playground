@@ -1,4 +1,3 @@
-main = putStrLn "Hello World!"
 --instance Show (a -> b) where show a= "funcion"
 
 
@@ -14,3 +13,9 @@ addThree x y z = x + y + z
 
 --addThree 2 3 4
 
+
+circunference :: Float -> Float
+circunference r = 2 * pi * r
+
+-- circunference 4
+s
